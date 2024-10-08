@@ -1,3 +1,0 @@
-/home/cameron/Projects/TextEditor/build/CMakeFiles/Vis.dir
-/home/cameron/Projects/TextEditor/build/CMakeFiles/edit_cache.dir
-/home/cameron/Projects/TextEditor/build/CMakeFiles/rebuild_cache.dir
